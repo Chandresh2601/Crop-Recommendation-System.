@@ -9,3 +9,5 @@ An AI-powered system designed for precision agriculture. This project uses a **R
 
 ## Dataset
 Includes soil NPK levels, temperature, humidity, pH, and rainfall.
+
+#This is the for lerning Purpose.
